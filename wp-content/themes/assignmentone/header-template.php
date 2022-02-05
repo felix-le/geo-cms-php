@@ -26,7 +26,7 @@
 <header class = "row">
   <div class="col-sm-12 col-md-6 col-lg-8">
     <a href = "<?php echo esc_url(home_url('')); ?>">
-      <img src = "<?php echo esc_url(home_url('wp-content/themes/assignmentone/assets/images/logo.png')); ?>" alt = "logo" class = "logo">
+      <img src = "<?php echo esc_url(home_url('wp-content/uploads/2022/01/logo.png')); ?>" alt = "logo" class = "logo">
   </div>
   </header>
   <nav class="col-sm-12 col-md-6 col-lg-4">
@@ -41,7 +41,7 @@
       ));
     ?>
   </nav>
+  <!-- wp-content/themes/assignmentone/assets/ventor/bootstrap/js/bootstrap.min.js -->
+      <script type ="text/javascript" src = "<?php echo esc_url(home_url('wp-content/themes/assignmentone/assets/ventor/bootstrap/js/bootstrap.min.js ')); ?>"></script>
 
-</body>
-  </html>
   
