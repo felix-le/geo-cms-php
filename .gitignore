@@ -472,3 +472,6 @@ wp-includes/js/crop/cropper.js
 *.css.map
 *.sass.map
 *.scss.map
+*/.DS_Store
+/.DS_Store
+.DS_Store
