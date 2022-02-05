@@ -1,6 +1,6 @@
 <footer>
   <p>&copy; <?php echo date('Y'); ?> Assignment One</p>
-
+  This is custom footer
 </footer>
 <script 
   type="text/javascript"
