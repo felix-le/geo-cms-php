@@ -1,4 +1,4 @@
-</main>
+
 
 <footer>
   <p>&copy; <?php echo date('Y'); ?> Assignment One</p>
@@ -7,6 +7,8 @@
     <a href="https://github.com/felix-le/geo-cms-php" style="ml-5">GitHub</a>
   </div>
 </footer>
+</div>
+</main>
 <script 
   type="text/javascript"
   src="<?php echo esc_url(home_url('wp-content/themes/assignmentonecustome/assets/bootstrap/js/bootstrap.min.js')) ?>"
