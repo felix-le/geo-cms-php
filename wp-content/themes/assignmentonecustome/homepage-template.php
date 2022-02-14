@@ -1,8 +1,7 @@
 <?php
   get_header();
 ?>
-
-<main>
+  <div class="container">
   <?php 
     if(have_post()):
       while(have_posts()):
@@ -13,8 +12,7 @@
       echo '<p>No content found</p>';
       endif;
   ?>
-
-</main>
+  </div>
 
 <?php 
   get_footer();

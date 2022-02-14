@@ -1,8 +1,32 @@
 @charset "UTF-8";
 
 /*
-Theme Name: CMS Custom Theme
+Theme Name: CMS Custom Theme ONE - ASMT 1
 Author: Viet Anh Le (Felix)
 Description:  This is a fully custom WordPress theme.
 Version: 1
 */
+
+/* header */
+
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.logo-wrapper a {
+  max-width: 100px;
+  max-height: 100px;
+  display: block;
+}
+.logo-wrapper a img {
+  width: 100%;
+  height: auto;
+}
+
+#navbarSupportedContent {
+  justify-content: space-evenly;
+}
+.form-inline {
+  display: flex;
+}
